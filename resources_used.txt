@@ -1,0 +1,6 @@
+Resouces used:
+* Udacity classes including the HTML5 games intro for collision detection
+* stackoverflow.com for the random number generator
+* Piazza - mostly to figure out where to start. I found the new instruction
+* document link here.  This is the link https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/edit#heading=h.eewbammgq5rk
+* w3schools.com as a javascript reference
